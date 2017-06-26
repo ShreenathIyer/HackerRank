@@ -41,7 +41,6 @@ Sample Output
 2
 
 '''
-#from math import ceil, floor
 
 def equality(chocs, mini):
     count = 0
