@@ -54,7 +54,8 @@ def equality(chocs, mini):
         if each - mini == 1:
             count += 1
     return count
-                
+
+
 if __name__ == "__main__":
     t = int(input())
     n = []
